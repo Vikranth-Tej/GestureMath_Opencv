@@ -8,14 +8,14 @@ no buttons, no controllers… just **your hands**! 🖐
 
 ##  Features
 
-| Feature | Version | 
-|--------|---------|
-| Face Detection | V1 |
-| Finger Counting (both hands) | V1 |
-| Automatic Addition (Left + Right hand) | V1 |
-| Single-Hand Gesture Math (Add / Sub / Mul) | V2 |
-| Gesture-based Evaluation (open palm) | V2 |
-| FPS Counter + UI Overlay | V1/V2 |
+| Feature |
+|--------|
+| Face Detection |
+| Finger Counting (both hands) |
+| Automatic Addition (Left + Right hand) 
+| Single-Hand Gesture Math (Add / Sub / Mul) |
+| Gesture-based Evaluation (open palm) |
+| FPS Counter + UI Overlay |
 
 
 ---
@@ -60,4 +60,5 @@ Math_Gestures/
     ├─ gesture_math.py   # Math logic state machine
     |
     └─ requirements.txt  
+
 ```
