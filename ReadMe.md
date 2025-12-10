@@ -1,8 +1,8 @@
 # GestureMath — CV Based Learning System
 
 A real-time, camera-based interactive math system built using OpenCV + MediaPipe.
-Kids can learn numbers and basic arithmetic using **hand gestures** —
-no buttons, no controllers… just **your hands**! 🖐
+Basic arithmetics using **hand gestures** —
+no buttons, no controllers… just **hands**! 🖐
 
 ---
 
@@ -62,3 +62,4 @@ Math_Gestures/
     └─ requirements.txt  
 
 ```
+
